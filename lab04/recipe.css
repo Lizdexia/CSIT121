@@ -27,8 +27,8 @@ ol{
 img{
 border-radius: 8px;
  display: block;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 #ingredients{
 	width: 33.33%;
@@ -42,7 +42,7 @@ border-radius: 8px;
 #instructions{
 	width: 66.66%;
 	padding: auto;
-	float:right;
+	float:auto;
 	block-size: auto;
 	border-style: solid;
 	border-radius: 5px;
