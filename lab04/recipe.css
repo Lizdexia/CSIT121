@@ -32,7 +32,7 @@ border-radius: 8px;
 }
 #ingredients{
 	width: 33.33%;
-	padding: auto;
+	padding: 25px;
 	float:left;
 	block-size: auto;
 	border-radius: 5px;
@@ -41,7 +41,7 @@ border-radius: 8px;
 }
 #instructions{
 	width: 66.66%;
-	padding: auto;
+	padding: 25px;
 	float:auto;
 	block-size: auto;
 	border-style: solid;
