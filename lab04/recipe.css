@@ -37,7 +37,6 @@ border-radius: 8px;
 	block-size: auto;
 	border-radius: 5px;
 	border-style: solid;
-	overflow: auto;
 	background-image: url(banana.jpg);
 }
 #instructions{
@@ -46,7 +45,6 @@ border-radius: 8px;
 	float:right;
 	block-size: auto;
 	border-style: solid;
-	overflow: auto;
 	border-radius: 5px;
 }
 a:link{
