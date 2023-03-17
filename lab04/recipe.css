@@ -35,6 +35,7 @@ border-radius: 8px;
 	padding: auto;
 	float:left;
 	block-size: auto;
+	border-radius: 1px;
 	border-style: solid;
 	overflow: auto;
 	background-image: url(banana.jpg);
@@ -46,6 +47,7 @@ border-radius: 8px;
 	block-size: auto;
 	border-style: solid;
 	overflow: auto;
+	border-radius: 1px;
 }
 a:link{
 color:red;
