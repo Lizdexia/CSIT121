@@ -28,10 +28,10 @@ ol{
 	font-weight: bolder;
 }
 img{
-	border-radius: 8px;
+border-radius: 8px;
  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 div{
 	background-image: url(banana.jpg);
@@ -53,10 +53,10 @@ div{
 	overflow: auto;
 }
 a:link{
-color:blue;
+color:red;
 }
 a:visited{
-	color:red;
+	color:blue;
 }
 a:hover{
 	color:green;
