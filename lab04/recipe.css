@@ -7,10 +7,7 @@ h1{
 ul{
 	text-transform: capitalize;
 	font-weight: bold;
-	border-style: solid;
-	border-color: crimson;
-	color: white;
-	background-color: black;
+	color: black;
 }
 h2{
 	margin: auto;
@@ -33,19 +30,17 @@ border-radius: 8px;
   margin-left: 400px;
   margin-right: 400px;
 }
-div{
-	background-image: url(banana.jpg);
-}
 #ingredients{
-	width: auto;
+	width: 33.33%;
 	padding: auto;
 	float:left;
 	block-size: auto;
 	border-style: solid;
 	overflow: auto;
+	background-image: url(banana.jpg);
 }
 #instructions{
-	width: auto;
+	width: 66.66%;
 	padding: auto;
 	float:right;
 	block-size: auto;
