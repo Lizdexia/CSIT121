@@ -1,0 +1,47 @@
+basic.css
+h1{
+	color:whitesmoke;
+	margin:auto;	
+}
+#main{
+	margin:auto;
+	color:whitesmoke;
+	font-family: sans-serif;
+	width:85%;
+}
+html{
+	background-color: skyblue;
+	font-family: sans-serif;
+
+}
+img{
+	padding:5px;
+	margin:5px;
+	border:1px solid black;
+	width:85%;
+}
+h2{
+	text-align: center;
+	color:black;
+}
+header{
+	background-color: black;
+
+}
+#sub{
+	float:right;
+	Border:1px solid black;
+	font-family: sans-serif;
+}
+a {
+	color: #blue;
+}
+a:hover {
+	color: darkblue;
+}
+main { 
+       padding: 5em;
+}
+nav{
+	text-align: center;
+}
