@@ -1,0 +1,83 @@
+recipe.css
+h1{
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	margin: auto;
+	font-family: Georgia, serif;
+}
+ul{
+	text-transform: capitalize;
+	font-weight: bold;
+	border-style: solid;
+	border-color: crimson;
+	color: white;
+	background-color: black;
+}
+h2{
+	margin: auto;
+	font-family: sans-serif;	
+}
+p{
+	border-style: solid;
+	color: indigo;
+	font-weight: lighter;
+
+}
+ol{
+	margin: auto;
+	text-transform: capitalize;
+	font-weight: bolder;
+}
+img{
+	border-radius: 8px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div{
+	background-image: url(banana.jpg);
+}
+#ingredients{
+	width: auto;
+	padding: auto;
+	float:left;
+	block-size: auto;
+	border-style: solid;
+	overflow: auto;
+}
+#instructions{
+	width: auto;
+	padding: auto;
+	float:right;
+	block-size: auto;
+	border-style: solid;
+	overflow: auto;
+}
+a:link{
+color:blue;
+}
+a:hover{
+	color:green;
+}
+a:visited{
+	color:red;
+}
+table{
+	margin:auto;
+	border:5px solid;
+	width:auto;
+
+}
+tr, td{
+	border-style: solid 5px;
+	margin:auto;
+	width:auto;
+	font-family: sans-serif;
+
+}
+caption{
+	font-size: bold;
+	font-size: 60px;
+}
+tr:nth-child(odd){
+	background-color: grey;
+}
